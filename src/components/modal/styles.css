@@ -1,0 +1,17 @@
+.thin-horiz-scrollbar::-webkit-scrollbar {
+    height: 4px;
+  }
+  
+  .thin-horiz-scrollbar::-webkit-scrollbar-thumb {
+    background: #dfe1e5;
+    border-radius: 4px;
+  }
+  
+  .thin-vert-scrollbar::-webkit-scrollbar {
+    width: 4px;
+  }
+  
+  .thin-vert-scrollbar::-webkit-scrollbar-thumb {
+    background: #dfe1e5;
+    border-radius: 4px;
+  }
