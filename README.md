@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Screenshot[Campaign Management UI] (https://github.com/BendgePriya/Campaign-Management/blob/master/src/assets/screenshots/campaignMgtUI.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
